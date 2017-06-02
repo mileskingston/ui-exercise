@@ -1,0 +1,33 @@
+/* Colours */
+$brand-blue: #4183d7!default;
+$dark-blue: darken($brand-blue, 15%); 
+$white: #fff!default;
+$grey_77: #777!default;
+$grey_cb: #cbcbcb!default;
+$black: #000!default;
+
+/* Font */
+$sans-serif: Verdana, sans-serif;
+$arial: Arial;
+$font-normal: normal;
+$font-bold: bold;
+
+/* Spacing */
+$spc: 15px!default;
+$spc-d: 30px!default;
+
+/* Container */
+$container-width: 1200px!default;
+
+/* Border */
+$border-default: 1px solid $grey_cb;
+
+/* Break points */
+$max-mobile: 481px;
+$min-mobile: 480px;
+$max-tablet: 769px;
+$min-tablet: 768px;
+$max-desktop: 1201px;
+$min-desktop: 1200px;
+
+

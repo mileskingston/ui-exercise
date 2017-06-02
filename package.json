@@ -1,0 +1,29 @@
+{
+  "name": "valtech",
+  "version": "1.0.0",
+  "description": "valtech ui test",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "testing"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mileskingston/ui-exercise.git"
+  },
+  "keywords": [
+    "ui",
+    "valtech"
+  ],
+  "author": "mileskingston",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mileskingston/ui-exercise/issues"
+  },
+  "homepage": "https://github.com/mileskingston/ui-exercise#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-autoprefixer": "^4.0.0",
+    "gulp-sass": "^3.1.0",
+    "gulp-webserver": "^0.9.1"
+  }
+}
